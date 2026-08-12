@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\bin\Debug\net10.0\TabuadaFOR.exe
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\bin\Debug\net10.0\TabuadaFOR.deps.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\bin\Debug\net10.0\TabuadaFOR.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\bin\Debug\net10.0\TabuadaFOR.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\bin\Debug\net10.0\TabuadaFOR.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\obj\Debug\net10.0\TabuadaFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\obj\Debug\net10.0\TabuadaFOR.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\obj\Debug\net10.0\TabuadaFOR.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\obj\Debug\net10.0\TabuadaFOR.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\obj\Debug\net10.0\TabuadaFOR.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\obj\Debug\net10.0\refint\TabuadaFOR.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\obj\Debug\net10.0\TabuadaFOR.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\obj\Debug\net10.0\TabuadaFOR.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\TabuadaFOR\TabuadaFOR\obj\Debug\net10.0\ref\TabuadaFOR.dll
