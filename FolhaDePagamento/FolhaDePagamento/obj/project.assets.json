@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\FolhaDePagamento\\FolhaDePagamento\\FolhaDePagamento.csproj",
+      "projectUniqueName": "C:\\Users\\fatec-ams-ds1\\Desktop\\conteúdo curso ds\\PAL\\FolhaDePagamento\\FolhaDePagamento\\FolhaDePagamento.csproj",
       "projectName": "FolhaDePagamento",
-      "projectPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\FolhaDePagamento\\FolhaDePagamento\\FolhaDePagamento.csproj",
+      "projectPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\conteúdo curso ds\\PAL\\FolhaDePagamento\\FolhaDePagamento\\FolhaDePagamento.csproj",
       "packagesPath": "C:\\Users\\fatec-ams-ds1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\FolhaDePagamento\\FolhaDePagamento\\obj\\",
+      "outputPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\conteúdo curso ds\\PAL\\FolhaDePagamento\\FolhaDePagamento\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fatec-ams-ds1\\AppData\\Roaming\\NuGet\\NuGet.Config",

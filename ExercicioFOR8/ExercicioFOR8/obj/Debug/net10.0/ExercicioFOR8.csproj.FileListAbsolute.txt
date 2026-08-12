@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\bin\Debug\net10.0\ExercicioFOR8.exe
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\bin\Debug\net10.0\ExercicioFOR8.deps.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\bin\Debug\net10.0\ExercicioFOR8.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\bin\Debug\net10.0\ExercicioFOR8.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\bin\Debug\net10.0\ExercicioFOR8.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\obj\Debug\net10.0\ExercicioFOR8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\obj\Debug\net10.0\ExercicioFOR8.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\obj\Debug\net10.0\ExercicioFOR8.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\obj\Debug\net10.0\ExercicioFOR8.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\obj\Debug\net10.0\ExercicioFOR8.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\obj\Debug\net10.0\refint\ExercicioFOR8.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\obj\Debug\net10.0\ExercicioFOR8.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\obj\Debug\net10.0\ExercicioFOR8.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFOR8\ExercicioFOR8\obj\Debug\net10.0\ref\ExercicioFOR8.dll

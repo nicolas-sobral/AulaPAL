@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\obj\Debug\net10.0\ExemploFOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\obj\Debug\net10.0\ExemploFOR.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\obj\Debug\net10.0\ExemploFOR.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\obj\Debug\net10.0\ExemploFOR.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\bin\Debug\net10.0\ExemploFOR.exe
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\bin\Debug\net10.0\ExemploFOR.deps.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\bin\Debug\net10.0\ExemploFOR.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\bin\Debug\net10.0\ExemploFOR.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\bin\Debug\net10.0\ExemploFOR.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\obj\Debug\net10.0\ExemploFOR.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\obj\Debug\net10.0\refint\ExemploFOR.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\obj\Debug\net10.0\ExemploFOR.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\obj\Debug\net10.0\ExemploFOR.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExemploFOR\ExemploFOR\obj\Debug\net10.0\ref\ExemploFOR.dll

@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\FolhaDePagamento\\",
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\PAL\\FolhaDePagamento\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{369C5B79-220B-E200-7B01-48FB9FADBAD9}|FolhaDePagamento\\FolhaDePagamento.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\folhadepagamento\\folhadepagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{369C5B79-220B-E200-7B01-48FB9FADBAD9}|FolhaDePagamento\\FolhaDePagamento.csproj|c:\\users\\fatec-ams-ds1\\desktop\\conte\u00FAdo curso ds\\pal\\folhadepagamento\\folhadepagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{369C5B79-220B-E200-7B01-48FB9FADBAD9}|FolhaDePagamento\\FolhaDePagamento.csproj|solutionrelative:folhadepagamento\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\FolhaDePagamento\\FolhaDePagamento\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\PAL\\FolhaDePagamento\\FolhaDePagamento\\Program.cs",
               "RelativeDocumentMoniker": "FolhaDePagamento\\Program.cs",
-              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\PAL\\FolhaDePagamento\\FolhaDePagamento\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\PAL\\FolhaDePagamento\\FolhaDePagamento\\Program.cs",
               "RelativeToolTip": "FolhaDePagamento\\Program.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-29T16:43:54.723Z",
               "EditorCaption": ""

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\Aula Prof Luiz\\ExercicioFOR6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CD87D25-AAEF-428F-801F-5CC20707EF7B}|ExercicioFOR6\\ExercicioFOR6.csproj|c:\\users\\fatec-ams-ds1\\desktop\\conte\u00FAdo curso ds\\aula prof luiz\\exerciciofor6\\exerciciofor6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CD87D25-AAEF-428F-801F-5CC20707EF7B}|ExercicioFOR6\\ExercicioFOR6.csproj|solutionrelative:exerciciofor6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\Aula Prof Luiz\\ExercicioFOR6\\ExercicioFOR6\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioFOR6\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\Aula Prof Luiz\\ExercicioFOR6\\ExercicioFOR6\\Program.cs",
+              "RelativeToolTip": "ExercicioFOR6\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T16:38:46.405Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
