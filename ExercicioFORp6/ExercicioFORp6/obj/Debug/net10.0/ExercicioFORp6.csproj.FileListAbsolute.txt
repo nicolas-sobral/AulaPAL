@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\bin\Debug\net10.0\ExercicioFORp6.exe
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\bin\Debug\net10.0\ExercicioFORp6.deps.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\bin\Debug\net10.0\ExercicioFORp6.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\bin\Debug\net10.0\ExercicioFORp6.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\bin\Debug\net10.0\ExercicioFORp6.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\obj\Debug\net10.0\ExercicioFORp6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\obj\Debug\net10.0\ExercicioFORp6.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\obj\Debug\net10.0\ExercicioFORp6.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\obj\Debug\net10.0\ExercicioFORp6.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\obj\Debug\net10.0\ExercicioFORp6.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\obj\Debug\net10.0\refint\ExercicioFORp6.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\obj\Debug\net10.0\ExercicioFORp6.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\obj\Debug\net10.0\ExercicioFORp6.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\Aula Prof Luiz\ExercicioFORp6\ExercicioFORp6\obj\Debug\net10.0\ref\ExercicioFORp6.dll
