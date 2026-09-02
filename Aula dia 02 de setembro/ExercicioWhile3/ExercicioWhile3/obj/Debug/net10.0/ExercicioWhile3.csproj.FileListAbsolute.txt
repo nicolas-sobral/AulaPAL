@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\bin\Debug\net10.0\ExercicioWhile3.exe
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\bin\Debug\net10.0\ExercicioWhile3.deps.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\bin\Debug\net10.0\ExercicioWhile3.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\bin\Debug\net10.0\ExercicioWhile3.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\bin\Debug\net10.0\ExercicioWhile3.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\obj\Debug\net10.0\ExercicioWhile3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\obj\Debug\net10.0\ExercicioWhile3.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\obj\Debug\net10.0\ExercicioWhile3.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\obj\Debug\net10.0\ExercicioWhile3.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\obj\Debug\net10.0\ExercicioWhile3.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\obj\Debug\net10.0\ExercicioWhile3.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\obj\Debug\net10.0\refint\ExercicioWhile3.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\obj\Debug\net10.0\ExercicioWhile3.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\obj\Debug\net10.0\ExercicioWhile3.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 02 de setembro\ExercicioWhile3\ExercicioWhile3\obj\Debug\net10.0\ref\ExercicioWhile3.dll
