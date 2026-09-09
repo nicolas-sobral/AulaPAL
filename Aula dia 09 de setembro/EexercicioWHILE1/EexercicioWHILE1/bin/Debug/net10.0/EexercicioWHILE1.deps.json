@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "EexercicioWHILE1/1.0.0": {
+        "runtime": {
+          "EexercicioWHILE1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EexercicioWHILE1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

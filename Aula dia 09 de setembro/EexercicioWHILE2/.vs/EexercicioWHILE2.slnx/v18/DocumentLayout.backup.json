@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\PAL\\Aula dia 02 de setembro\\EexercicioWHILE2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D66A8582-C652-412B-BDFA-63B372A52EB4}|EexercicioWHILE2\\EexercicioWHILE2.csproj|c:\\users\\fatec-ams-ds1\\desktop\\conte\u00FAdo curso ds\\pal\\aula dia 02 de setembro\\eexerciciowhile2\\eexerciciowhile2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D66A8582-C652-412B-BDFA-63B372A52EB4}|EexercicioWHILE2\\EexercicioWHILE2.csproj|solutionrelative:eexerciciowhile2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\PAL\\Aula dia 02 de setembro\\EexercicioWHILE2\\EexercicioWHILE2\\Program.cs",
+              "RelativeDocumentMoniker": "EexercicioWHILE2\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\PAL\\Aula dia 02 de setembro\\EexercicioWHILE2\\EexercicioWHILE2\\Program.cs*",
+              "RelativeToolTip": "EexercicioWHILE2\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-09T15:42:09.242Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\obj\Debug\net10.0\EexercicioWHILE5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\obj\Debug\net10.0\EexercicioWHILE5.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\obj\Debug\net10.0\EexercicioWHILE5.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\obj\Debug\net10.0\EexercicioWHILE5.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\obj\Debug\net10.0\EexercicioWHILE5.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\bin\Debug\net10.0\EexercicioWHILE5.exe
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\bin\Debug\net10.0\EexercicioWHILE5.deps.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\bin\Debug\net10.0\EexercicioWHILE5.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\bin\Debug\net10.0\EexercicioWHILE5.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\bin\Debug\net10.0\EexercicioWHILE5.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\obj\Debug\net10.0\EexercicioWHILE5.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\obj\Debug\net10.0\refint\EexercicioWHILE5.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\obj\Debug\net10.0\EexercicioWHILE5.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\obj\Debug\net10.0\EexercicioWHILE5.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 09 de setembro\EexercicioWHILE5\EexercicioWHILE5\obj\Debug\net10.0\ref\EexercicioWHILE5.dll
