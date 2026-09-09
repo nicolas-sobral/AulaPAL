@@ -4,6 +4,6 @@ n = int.Parse(Console.ReadLine());
 while (cont <= 30)
 {
     tabuada = n * cont;
-    Console.WriteLine(tabuada);
+    Console.WriteLine(n + " * " + cont + " = " + tabuada);
     cont++;
 }
