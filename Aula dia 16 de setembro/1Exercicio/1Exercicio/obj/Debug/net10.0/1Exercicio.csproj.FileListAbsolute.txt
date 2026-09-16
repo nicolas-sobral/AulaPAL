@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\bin\Debug\net10.0\1Exercicio.exe
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\bin\Debug\net10.0\1Exercicio.deps.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\bin\Debug\net10.0\1Exercicio.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\bin\Debug\net10.0\1Exercicio.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\bin\Debug\net10.0\1Exercicio.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\obj\Debug\net10.0\1Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\obj\Debug\net10.0\1Exercicio.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\obj\Debug\net10.0\1Exercicio.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\obj\Debug\net10.0\1Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\obj\Debug\net10.0\1Exercicio.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\obj\Debug\net10.0\1Exercicio.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\obj\Debug\net10.0\refint\1Exercicio.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\obj\Debug\net10.0\1Exercicio.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\obj\Debug\net10.0\1Exercicio.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 16 de setembro\1Exercicio\1Exercicio\obj\Debug\net10.0\ref\1Exercicio.dll
