@@ -9,7 +9,7 @@ for (int i = 0; i < num.Length; i++)
 for(int i = 0; i < num.Length; i++)
 {
     resto = num[i] % 2;
-    if (resto == 0)
+    if (resto != 0)
     {
         Console.WriteLine(num[i]);
     }
