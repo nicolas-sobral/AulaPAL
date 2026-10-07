@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\bin\Debug\net10.0\ExercicioVETOR4.exe
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\bin\Debug\net10.0\ExercicioVETOR4.deps.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\bin\Debug\net10.0\ExercicioVETOR4.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\bin\Debug\net10.0\ExercicioVETOR4.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\bin\Debug\net10.0\ExercicioVETOR4.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\obj\Debug\net10.0\ExercicioVETOR4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\obj\Debug\net10.0\ExercicioVETOR4.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\obj\Debug\net10.0\ExercicioVETOR4.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\obj\Debug\net10.0\ExercicioVETOR4.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\obj\Debug\net10.0\ExercicioVETOR4.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\obj\Debug\net10.0\ExercicioVETOR4.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\obj\Debug\net10.0\refint\ExercicioVETOR4.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\obj\Debug\net10.0\ExercicioVETOR4.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\obj\Debug\net10.0\ExercicioVETOR4.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExercicioVETOR4\ExercicioVETOR4\obj\Debug\net10.0\ref\ExercicioVETOR4.dll

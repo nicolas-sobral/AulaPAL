@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\bin\Debug\net10.0\ExemploVETOR3.exe
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\bin\Debug\net10.0\ExemploVETOR3.deps.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\bin\Debug\net10.0\ExemploVETOR3.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\bin\Debug\net10.0\ExemploVETOR3.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\bin\Debug\net10.0\ExemploVETOR3.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\obj\Debug\net10.0\ExemploVETOR3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\obj\Debug\net10.0\ExemploVETOR3.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\obj\Debug\net10.0\ExemploVETOR3.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\obj\Debug\net10.0\ExemploVETOR3.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\obj\Debug\net10.0\ExemploVETOR3.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\obj\Debug\net10.0\ExemploVETOR3.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\obj\Debug\net10.0\refint\ExemploVETOR3.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\obj\Debug\net10.0\ExemploVETOR3.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\obj\Debug\net10.0\ExemploVETOR3.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExemploVETOR3\ExemploVETOR3\obj\Debug\net10.0\ref\ExemploVETOR3.dll

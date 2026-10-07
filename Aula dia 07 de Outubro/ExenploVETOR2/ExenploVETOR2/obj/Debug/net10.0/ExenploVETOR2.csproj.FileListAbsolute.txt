@@ -1,0 +1,15 @@
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\bin\Debug\net10.0\ExenploVETOR2.exe
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\bin\Debug\net10.0\ExenploVETOR2.deps.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\bin\Debug\net10.0\ExenploVETOR2.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\bin\Debug\net10.0\ExenploVETOR2.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\bin\Debug\net10.0\ExenploVETOR2.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\obj\Debug\net10.0\ExenploVETOR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\obj\Debug\net10.0\ExenploVETOR2.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\obj\Debug\net10.0\ExenploVETOR2.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\obj\Debug\net10.0\ExenploVETOR2.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\obj\Debug\net10.0\ExenploVETOR2.sourcelink.json
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\obj\Debug\net10.0\ExenploVETOR2.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\obj\Debug\net10.0\refint\ExenploVETOR2.dll
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\obj\Debug\net10.0\ExenploVETOR2.pdb
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\obj\Debug\net10.0\ExenploVETOR2.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Desktop\conteúdo curso ds\PAL\Aula dia 07 de Outubro\ExenploVETOR2\ExenploVETOR2\obj\Debug\net10.0\ref\ExenploVETOR2.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\PAL\\Aula dia 16 de setembro\\6Exercicio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC8CEE0-39AA-4AFF-BE3B-7C9A150B46A2}|6Exercicio\\6Exercicio.csproj|c:\\users\\fatec-ams-ds1\\desktop\\conte\u00FAdo curso ds\\pal\\aula dia 16 de setembro\\6exercicio\\6exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC8CEE0-39AA-4AFF-BE3B-7C9A150B46A2}|6Exercicio\\6Exercicio.csproj|solutionrelative:6exercicio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\PAL\\Aula dia 16 de setembro\\6Exercicio\\6Exercicio\\Program.cs",
+              "RelativeDocumentMoniker": "6Exercicio\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\PAL\\Aula dia 16 de setembro\\6Exercicio\\6Exercicio\\Program.cs",
+              "RelativeToolTip": "6Exercicio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T18:59:56.287Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

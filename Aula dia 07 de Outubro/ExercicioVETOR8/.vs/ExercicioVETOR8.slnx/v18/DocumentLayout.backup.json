@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\PAL\\Aula dia 07 de Outubro\\ExercicioVETOR8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E18E8AF7-D205-488F-94A8-78D7CBB64BB3}|ExercicioVETOR8\\ExercicioVETOR8.csproj|c:\\users\\fatec-ams-ds1\\desktop\\conte\u00FAdo curso ds\\pal\\aula dia 07 de outubro\\exerciciovetor8\\exerciciovetor8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E18E8AF7-D205-488F-94A8-78D7CBB64BB3}|ExercicioVETOR8\\ExercicioVETOR8.csproj|solutionrelative:exerciciovetor8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\PAL\\Aula dia 07 de Outubro\\ExercicioVETOR8\\ExercicioVETOR8\\Program.cs",
+              "RelativeDocumentMoniker": "ExercicioVETOR8\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Desktop\\conte\u00FAdo curso ds\\PAL\\Aula dia 07 de Outubro\\ExercicioVETOR8\\ExercicioVETOR8\\Program.cs",
+              "RelativeToolTip": "ExercicioVETOR8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T19:12:46.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "ExemploVETOR1/1.0.0": {
+        "runtime": {
+          "ExemploVETOR1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExemploVETOR1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
